@@ -1,4 +1,3 @@
-# action.yaml
 name: Build and Push Image to ECR
 description: Builds and pushes an image to an AWS ECR repository
 inputs:
